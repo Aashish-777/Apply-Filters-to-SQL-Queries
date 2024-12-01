@@ -101,4 +101,5 @@ This query identifies employees who are not part of the Information Technology d
 ---
 
 Summary:
+
 In this project, I used SQL to investigate login activity and employee data, addressing specific cybersecurity concerns such as unauthorized access and departmental machine updates. The queries demonstrate proficiency in filtering data using logical operators, pattern matching with LIKE, and focusing on time and date constraints. This portfolio piece highlights my ability to perform precise and effective data queries to support cybersecurity efforts.
